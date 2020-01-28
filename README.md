@@ -1,4 +1,4 @@
-# kmeans-matlab
+# matlab-kmeans
 A fast, vectorised implementation of the K-Means clustering algorithm intended for use with image clustering. 
 
 ## Usage
